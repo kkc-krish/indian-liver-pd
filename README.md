@@ -7,7 +7,7 @@ First Approach (rather naive)
 
 -- Feature selection: normalized data and constructed a correlation matrix. Removed highly correlated features.
 
--- Test/train split: 50/50 split from existic data. Only 583 instances. 
+-- Test/train split: 50/50 split from existing data. Only 583 instances. 
 
 -- Model: fit a simple logistic regression model
 
